@@ -22,7 +22,7 @@ But on my journey to this very pot of gold, I took a detour to the realm of back
 
 > Just a little bit more.
 
-I may have forgotten to mention this, but I'm currently a third-year Computer Science undergraduate. So I can quite confidently say that I'm fully kitted with fundamentals such as Data Structures and Algorithms. 
+I may have forgotten to mention this, but I'm currently a third-year Computer Science undergraduate. So I can quite confidently say that I'm fully kitted with knowledge in fundamentals such as Data Structures and Algorithms. 
 
 ## When I'm not programming
 Besides frequently being hunched over my workspace mashing away at my keyboard, I'm also a writer. I enjoy writing all sorts of stuff, but my preference however- is creative writing. There's also me being a retired-ish competitive gamer. Other hobbies include, well, gaming, sports (football & basketball to be precise), singing, watching anime, reading all sorts of books and much much more.
