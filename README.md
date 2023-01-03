@@ -12,7 +12,7 @@ My stack? I'm afraid it's not that simple. I simply go around learning whatsoeve
 * CSS
 * JS
 * Bootstrap
-* C++ 
+* C / C++ 
 * Unity
 
 > What's more?
