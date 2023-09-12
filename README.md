@@ -27,6 +27,10 @@ I may have forgotten to mention this, but I'm currently a third-year Computer Sc
 ## When I'm not programming
 Besides frequently being hunched over my workspace mashing away at my keyboard, I'm also a writer. I enjoy writing all sorts of stuff, but my preference however- is creative writing. There's also me being a retired-ish competitive gamer. Other hobbies include, well, gaming, sports (football & basketball to be precise), singing, watching anime, reading all sorts of books and much much more.
 
+> Final Note
+
+I have an awfully long way to go before I reach the goal(s) I have burned into my brain, but I simply will/can not stop till I get there. 
+Excited to learn and improve throughout this journey!
 
 
 
