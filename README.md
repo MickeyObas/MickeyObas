@@ -20,17 +20,13 @@
 
 ---
 ### :man_technologist: About Me :
-My name is Michael, and I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- :telescope: Viewing Software Devlopment through two lenses; Frontend and Backend.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read tech articles and watch insightful videos on YouTube.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+My name is Michael, and I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
+<p>I enjoy learning daily about tech, and finding solutions to emerging problems.</p>
+<p>I'm also a technical writer, so you'll often find me sharing new-found knowledge with the world. This, for me, is one of my favourite parts.</p>
+<p>I am a CS graduate, so I have fundamentals like Operating Systems, Data Structures and Algorithms, Networking, etc- under my belt, and I continue to eagerly learn more about them every day.</p>
+<p>I'm open to collaborations, jobs, and making new friends in this vast world of tech enthusiasts.</p>
+<p>Hello, once again. Let's do great things :)</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
